@@ -183,15 +183,15 @@ html {
   padding-top: 30px;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  width: 80%;
+  justify-content: space-evenly;
+  width: 100%;
   flex-wrap: wrap;
   margin: 0 auto;
 }
 .dev-summary__item {
   width: auto;
   display: flex;
-  width: 550px;
+  width: 500px;
   margin: 20px;
 }
 .dev-icons-wrapper {
